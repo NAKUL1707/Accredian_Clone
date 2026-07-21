@@ -1,17 +1,17 @@
 // src/app/page.js
-import AccredianEdge from "@/components/Sections/AccredianEdge";
-import CATFramework from "@/components/Sections/CATframework";
-import CTABanner from "@/components/Sections/CTABanner";
-import CustomCourses from "@/components/Sections/CustomCourses";
-import DeliverResults from "@/components/Sections/DeliverResults";
-import DomainExpertise from "@/components/Sections/DomainExpertise";
-import FAQ from "@/components/Sections/FAQ";
-import Hero from "@/components/Sections/Hero";
-import Partnerships from "@/components/Sections/Partnerships";
-import SkillEnhancement from "@/components/Sections/SkillEnhancement";
-import Testimonials from "@/components/Sections/Testimonials";
-import TrackRecord from "@/components/Sections/TrackRecord";
-import EnquireForm from "@/components/Sections/EnquireForm";
+import AccredianEdge from "@/components/sections/AccredianEdge";
+import CATFramework from "@/components/sections/CATframework";
+import CTABanner from "@/components/sections/CTABanner";
+import CustomCourses from "@/components/sections/CustomCourses";
+import DeliverResults from "@/components/sections/DeliverResults";
+import DomainExpertise from "@/components/sections/DomainExpertise";
+import FAQ from "@/components/sections/FAQ";
+import Hero from "@/components/sections/Hero";
+import Partnerships from "@/components/sections/Partnerships";
+import SkillEnhancement from "@/components/sections/SkillEnhancement";
+import Testimonials from "@/components/sections/Testimonials";
+import TrackRecord from "@/components/sections/TrackRecord";
+import EnquireForm from "@/components/sections/EnquireForm";
 
 export default function Home() {
   return (
