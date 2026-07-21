@@ -1,5 +1,5 @@
 // src/components/sections/AccredianEdge.jsx
-import SectionHeading from "@/components/ui/SectionHeading";
+import SectionHeading from "@/components/UI/SectionHeading";
 import { edgeSteps } from "@/lib/data";
 
 export default function AccredianEdge() {

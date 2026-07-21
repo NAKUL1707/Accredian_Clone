@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import SectionHeading from "@/components/ui/SectionHeading";
+import SectionHeading from "@/components/UI/SectionHeading";
 import { testimonials } from "@/lib/data";
 
 export default function Testimonials() {

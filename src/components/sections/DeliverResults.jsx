@@ -1,4 +1,4 @@
-import SectionHeading from "@/components/ui/SectionHeading";
+import SectionHeading from "@/components/UI/SectionHeading";
 import { deliverySteps } from "@/lib/data";
 
 export default function DeliverResults() {

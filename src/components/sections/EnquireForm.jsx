@@ -1,4 +1,4 @@
-import SectionHeading from "@/components/ui/SectionHeading";
+import SectionHeading from "@/components/UI/SectionHeading";
 import LeadForm from "@/components/LeadForm";
 
 export default function EnquireForm() {

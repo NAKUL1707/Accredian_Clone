@@ -1,4 +1,4 @@
-import SectionHeading from "@/components/ui/SectionHeading";
+import SectionHeading from "@/components/UI/SectionHeading";
 import IconCard from "@/components/ui/IconCard";
 import { domains } from "@/lib/data";
 

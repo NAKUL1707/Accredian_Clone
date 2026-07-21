@@ -1,5 +1,5 @@
 import Image from "next/image";
-import SectionHeading from "@/components/ui/SectionHeading";
+import SectionHeading from "@/components/UI/SectionHeading";
 import { courses } from "@/lib/data";
 
 export default function CustomCourses() {

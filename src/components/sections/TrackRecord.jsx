@@ -1,4 +1,4 @@
-import SectionHeading from "@/components/ui/SectionHeading";
+import SectionHeading from "@/components/UI/SectionHeading";
 import StatCard from "@/components/ui/StatCard";
 import { stats } from "@/lib/data";
 
