@@ -1,5 +1,5 @@
 import SectionHeading from "@/components/UI/SectionHeading";
-import IconCard from "@/components/ui/IconCard";
+import IconCard from "@/components/UI/IconCard";
 import { domains } from "@/lib/data";
 
 export default function DomainExpertise() {

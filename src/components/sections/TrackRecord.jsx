@@ -1,5 +1,5 @@
 import SectionHeading from "@/components/UI/SectionHeading";
-import StatCard from "@/components/ui/StatCard";
+import StatCard from "@/components/UI/StatCard";
 import { stats } from "@/lib/data";
 
 export default function TrackRecord() {

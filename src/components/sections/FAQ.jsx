@@ -1,9 +1,9 @@
 "use client";
 
 import { useState } from "react";
-import SectionHeading from "@/components/ui/SectionHeading";
-import AccordionItem from "@/components/ui/AccordionItem";
-import Button from "@/components/ui/Button";
+import SectionHeading from "@/components/UI/SectionHeading";
+import AccordionItem from "@/components/UI/AccordionItem";
+import Button from "@/componentsUI/Button";
 import { faqCategories, faqs } from "@/lib/data";
 
 export default function FAQ() {

@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { Check } from "lucide-react";
-import Button from "@/components/ui/Button";
+import Button from "@/components/UI/Button";
 
 const bullets = ["Tailored Solutions", "Industry Insights", "Expert Guidance"];
 
