@@ -1,7 +1,5 @@
 # Accredian Enterprise — Partial Clone
 
-A responsive recreation of the Accredian Enterprise landing page (https://enterprise.accredian.com/), built with Next.js (App Router) and Tailwind CSS, as part of the Full Stack Developer Intern assignment.
-
 **Live site:** --https://accredian-clone-8pxsrb8oo-nakul1707s-projects.vercel.app/
 
 
