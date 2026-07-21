@@ -3,7 +3,7 @@
 import { useState } from "react";
 import SectionHeading from "@/components/UI/SectionHeading";
 import AccordionItem from "@/components/UI/AccordionItem";
-import Button from "@/componentsUI/Button";
+import Button from "@/components/UI/Button";
 import { faqCategories, faqs } from "@/lib/data";
 
 export default function FAQ() {
