@@ -1,5 +1,5 @@
 import { Headphones } from "lucide-react";
-import Button from "@/components/ui/Button";
+import Button from "@/components/UI/Button";
 
 export default function CTABanner() {
   return (
