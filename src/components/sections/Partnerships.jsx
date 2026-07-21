@@ -1,7 +1,7 @@
 import SectionHeading from "@/components/ui/SectionHeading";
 import { partners } from "@/lib/data";
 
-export default function Partnerships() {
+export default function Partnership() {
   return (
     <section id="clients" className="py-16">
       <div className="max-w-6xl mx-auto px-6">
