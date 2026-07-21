@@ -7,7 +7,7 @@ import DeliverResults from "@/components/Sections/DeliverResults";
 import DomainExpertise from "@/components/Sections/DomainExpertise";
 import FAQ from "@/components/Sections/FAQ";
 import Hero from "@/components/Sections/Hero";
-import Partnerships from "@/components/Sections/Partnership";
+import Partnerships from "@/components/Sections/Partnerships";
 import SkillEnhancement from "@/components/Sections/SkillEnhancement";
 import Testimonials from "@/components/Sections/Testimonials";
 import TrackRecord from "@/components/Sections/TrackRecord";
